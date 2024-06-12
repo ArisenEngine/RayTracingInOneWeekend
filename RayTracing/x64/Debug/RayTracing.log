@@ -1,11 +1,11 @@
 ﻿  main.cpp
-E:\TechCenter\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(47,51): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-E:\TechCenter\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(127,42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-E:\TechCenter\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(127,31): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
-E:\TechCenter\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(128,40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-E:\TechCenter\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(128,29): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
-E:\TechCenter\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(216,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-E:\TechCenter\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(333,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-E:\TechCenter\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(334,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-E:\TechCenter\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(335,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  RayTracing.vcxproj -> E:\TechCenter\NebulaEngine\Nebula\x64\Debug\RayTracing.exe
+E:\Work\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(47,51): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\Work\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(127,42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Work\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(127,31): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\Work\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(128,40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Work\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(128,29): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\Work\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(216,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\Work\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(333,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Work\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(334,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Work\NebulaEngine\Nebula\Samples\RayTracingInOneWeekend\RayTracing\camera.h(335,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  RayTracing.vcxproj -> E:\Work\NebulaEngine\Nebula\x64\Debug\RayTracing.exe
